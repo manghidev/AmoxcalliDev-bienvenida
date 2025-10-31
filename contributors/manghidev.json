@@ -1,0 +1,30 @@
+{
+    "githubUser": "manghidev",
+    "country": "🇲🇽",
+    "bio": "💻 + 🥭 = happiness",
+    "favoriteStack": [
+        "TypeScript",
+        "NextJS",
+        "Flutter",
+        "PostgreSQL",
+        "AWS",
+        "Docker"
+    ],
+    "level": "lead",
+    "howDoYouFeel": "¡Emocionado de ver crecer la comunidad de AmoxcalliDev y contribuir al ecosistema open source!",
+    "interests": [
+        "Desarrollo Móvil",
+        "Desarrollo Frontend",
+        "Desarrollo Backend",
+        "La nube",
+        "Compartir conocimiento",
+        "Open Source"
+    ],
+    "availableFor": [
+        "Colaborar en proyectos",
+        "Aprender nuevas tecnologías",
+        "Compartir conocimiento",
+        "Mentoría (si puedo ayudarte apoyarte, con gusto lo haré)"
+    ],
+    "joinDate": "2025-10-31"
+}
