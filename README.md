@@ -67,14 +67,14 @@ git push origin mi-presentacion
 ### Paso 6: Crea un Pull Request
 Ve a tu fork en GitHub y haz click en "Compare & pull request". 
 
-Asegúrate de seguir nuestra [Guía de Contribución](./CONTRIBUTING.md) para el formato correcto del PR.
+Asegúrate de seguir nuestra [Guía de Contribución](https://github.com/AmoxcalliDev/.github/blob/main/CONTRIBUTING.md) para el formato correcto del PR.
 
 ### Paso 7: ¡Espera la revisión! 🎉
 Un miembro del equipo revisará tu PR. Una vez aprobado, ¡serás oficialmente un contribuidor de AmoxcalliDev!
 
 ## 📋 Código de Conducta
 
-Al contribuir a AmoxcalliDev, aceptas seguir nuestro [Código de Conducta](./CODE_OF_CONDUCT.md). Por favor, léelo antes de participar.
+Al contribuir a AmoxcalliDev, aceptas seguir nuestro [Código de Conducta](https://github.com/AmoxcalliDev/.github/blob/main/CODE_OF_CONDUCT.md). Por favor, léelo antes de participar.
 
 ## 🚀 ¿Qué sigue?
 
